@@ -47,7 +47,7 @@
 }
 
 .popover{
-    /* display: none; */
+    display: none;
     position: absolute;
     background-color: #fafafa;
     border: #ddd 1px solid;
